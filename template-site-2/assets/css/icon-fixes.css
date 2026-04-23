@@ -1,0 +1,39 @@
+/*
+  Icon compatibility layer for the Veranda4M template.
+
+  The saved WordPress export uses:
+  - Iconsax for mobile/header controls
+  - Font Awesome for social and amenity icons
+
+  The CDN links in the HTML provide future-friendly icon libraries, while these
+  rules keep the saved Porto/WordPress class names rendering correctly.
+*/
+
+.iconsax,
+.mobile-toggler-icon::before {
+  font-family: iconsax, "iconsax-font-icon", sans-serif !important;
+}
+
+.share-links a::before {
+  font-family: "Font Awesome 6 Brands", "Font Awesome 5 Brands", "Font Awesome 6 Free", "Font Awesome 5 Free" !important;
+  font-weight: 400;
+}
+
+.share-links .share-email::before,
+.fas,
+.fa {
+  font-family: "Font Awesome 6 Free", "Font Awesome 5 Free" !important;
+  font-weight: 900;
+}
+
+.share-links .share-facebook::before {
+  content: "\f39e";
+}
+
+.share-links .share-instagram::before {
+  content: "\f16d";
+}
+
+.share-links .share-whatsapp::before {
+  content: "\f232";
+}

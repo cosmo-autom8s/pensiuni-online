@@ -1,0 +1,2 @@
+(function($){$(document).on('wpcf7submit',function(event){setTimeout(function(){$('.wpcf7-response-output').each(function(){$(this).addClass('hide-notitication')})},1000)});$(document).on('click','.wpcf7-response-output',function(){$(this).empty();if($(this).parent().closest('.wpcf7-form').hasClass('invalid')){$(this).parent().closest('.wpcf7-form').toggleClass('invalid init').attr('data-status','init')}
+if($(this).parent().closest('.wpcf7-form').hasClass('sent')){$(this).parent().closest('.wpcf7-form').toggleClass('sent init').attr('data-status','init')}})})(jQuery)

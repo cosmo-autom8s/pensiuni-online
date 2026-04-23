@@ -1,0 +1,1100 @@
+[
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css",
+    "source": "index.html",
+    "path": "assets/remote-downloads/cdnjs.cloudflare.com/all.min-60ef7f8691cf.css",
+    "status": 200,
+    "bytes": 103009,
+    "content_type": "text/css; charset=utf-8",
+    "error": null
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/npm/iconsax-font-icon@1.1.0/dist/icons.css",
+    "source": "index.html",
+    "path": "assets/remote-downloads/cdn.jsdelivr.net/icons-233b25f1ede1.css",
+    "status": 200,
+    "bytes": 50668,
+    "content_type": "text/css; charset=utf-8",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/themes/porto/fonts/fontawesome/fa-brands-400.woff2",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/fa-brands-400-58c3bf4fa181.woff2",
+    "status": 200,
+    "bytes": 109808,
+    "content_type": "font/woff2",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/themes/porto/fonts/fontawesome/fa-solid-900.woff2",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/fa-solid-900-67bd50d7df4a.woff2",
+    "status": 200,
+    "bytes": 150020,
+    "content_type": "font/woff2",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/themes/porto/fonts/porto-font/porto.woff2",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/porto-0a296dce6cc5.woff2",
+    "status": 200,
+    "bytes": 56288,
+    "content_type": "font/woff2",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/themes/verandafourm/assets/fonts/Elgoc_Thin/Elgoc-Thin.otf",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/Elgoc-Thin-80081a41e4da.otf",
+    "status": 200,
+    "bytes": 43548,
+    "content_type": "font/otf",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/themes/verandafourm/assets/fonts/Elgoc_Thin/Elgoc-Regular.otf",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/Elgoc-Regular-eacd6567661f.otf",
+    "status": 200,
+    "bytes": 47560,
+    "content_type": "font/otf",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/themes/verandafourm/assets/css/files/iconsax.woff2",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/iconsax-3c6ea4109c7a.woff2",
+    "status": 200,
+    "bytes": 218852,
+    "content_type": "font/woff2",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/themes/porto/fonts/fontawesome/fa-brands-400.ttf",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/fa-brands-400-ca247616cb68.ttf",
+    "status": 200,
+    "bytes": 189684,
+    "content_type": "font/ttf",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/themes/porto/fonts/fontawesome/fa-solid-900.ttf",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/fa-solid-900-8e366ecaf90b.ttf",
+    "status": 200,
+    "bytes": 394668,
+    "content_type": "font/ttf",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/themes/porto/css/images/fancybox_sprite@2x.png",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/fancybox_sprite@2x-fa7d56f0bdee.png",
+    "status": 200,
+    "bytes": 6553,
+    "content_type": "image/png",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/themes/porto/fonts/porto-font/porto.eot",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/porto-f7ae26540573.eot",
+    "status": 200,
+    "bytes": 102772,
+    "content_type": "application/vnd.ms-fontobject",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/themes/porto/fonts/porto-font/porto.eot?#iefix",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/porto-0a17af175fe8.eot",
+    "status": 200,
+    "bytes": 102772,
+    "content_type": "application/vnd.ms-fontobject",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/themes/porto/fonts/porto-font/porto.woff",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/porto-8444118bdc36.woff",
+    "status": 200,
+    "bytes": 66844,
+    "content_type": "font/woff",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/themes/porto/fonts/porto-font/porto.ttf",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/porto-0a53950daea3.ttf",
+    "status": 200,
+    "bytes": 102516,
+    "content_type": "font/ttf",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/themes/porto/fonts/porto-font/porto.svg#porto",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/porto-a548c8f8608e.svg",
+    "status": 200,
+    "bytes": 173890,
+    "content_type": "image/svg+xml",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/themes/porto/images/select-bg.svg",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/select-bg-145d3cc4ef43.svg",
+    "status": 200,
+    "bytes": 405,
+    "content_type": "image/svg+xml",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/themes/verandafourm/assets/css/files/iconsax.eot",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/iconsax-f761c8a08814.eot",
+    "status": 200,
+    "bytes": 568768,
+    "content_type": "application/vnd.ms-fontobject",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/themes/verandafourm/assets/css/files/iconsax.woff",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/iconsax-6aecbf8e80fe.woff",
+    "status": 200,
+    "bytes": 322724,
+    "content_type": "font/woff",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/themes/verandafourm/assets/css/files/iconsax.ttf",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/iconsax-281ee043446a.ttf",
+    "status": 200,
+    "bytes": 568604,
+    "content_type": "font/ttf",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/themes/verandafourm/assets/css/files/iconsax.svg",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/iconsax-c2f728e0e233.svg",
+    "status": 200,
+    "bytes": 997405,
+    "content_type": "image/svg+xml",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/11/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-and-adventure-converge-to-create-memories-that-last-a-lifetime-65-1024x684.jpeg",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-a-594c646ddd8b.jpeg",
+    "status": 200,
+    "bytes": 169259,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/05/favicon.svg",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/favicon-c3af1b23a412.svg",
+    "status": 200,
+    "bytes": 19705,
+    "content_type": "image/svg+xml",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/11/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-and-adventure-converge-to-create-memories-that-last-a-lifetime-65.jpeg",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-a-f618d3e36ed0.jpeg",
+    "status": 200,
+    "bytes": 529455,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/11/Asset-6@3x.png",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/Asset-6@3x-9d2668a08a97.png",
+    "status": 200,
+    "bytes": 25659,
+    "content_type": "image/png",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/themes/porto/js/libs/webfont.js",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/webfont-7c0beb807e50.js",
+    "status": 200,
+    "bytes": 13221,
+    "content_type": "application/javascript; charset=UTF-8",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/11/cropped-Asset-6@3x-32x32.png",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/cropped-Asset-6@3x-32x32-91ee1d83c1a7.png",
+    "status": 200,
+    "bytes": 1546,
+    "content_type": "image/png",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/11/cropped-Asset-6@3x-192x192.png",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/cropped-Asset-6@3x-192x192-3314ef5fa16a.png",
+    "status": 200,
+    "bytes": 13774,
+    "content_type": "image/png",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/11/cropped-Asset-6@3x-180x180.png",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/cropped-Asset-6@3x-180x180-73cca75fe0d4.png",
+    "status": 200,
+    "bytes": 12909,
+    "content_type": "image/png",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/11/cropped-Asset-6@3x-270x270.png",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/cropped-Asset-6@3x-270x270-a7e9b980e447.png",
+    "status": 200,
+    "bytes": 21915,
+    "content_type": "image/png",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/themes/porto/images/owl.video.play.png",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/owl.video.play-953bf1b5fa3a.png",
+    "status": 200,
+    "bytes": 4976,
+    "content_type": "image/png",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/themes/porto/css/images/fancybox_loading.gif",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/fancybox_loading-8eeae2831251.gif",
+    "status": 200,
+    "bytes": 6567,
+    "content_type": "image/gif",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/themes/porto/css/images/fancybox_loading@2x.gif",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/fancybox_loading@2x-9c0020aaa811.gif",
+    "status": 200,
+    "bytes": 13984,
+    "content_type": "image/gif",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/themes/porto/css/images/blank.gif",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/blank-460008095379.gif",
+    "status": 200,
+    "bytes": 43,
+    "content_type": "image/gif",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/themes/porto/css/images/fancybox_sprite.png",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/fancybox_sprite-2cb44784cd7f.png",
+    "status": 200,
+    "bytes": 1362,
+    "content_type": "image/png",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/11/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-and-adventure-converge-to-create-memories-that-last-a-lifetime-137-dark.jpeg",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-a-40f0f1699ab5.jpeg",
+    "status": 200,
+    "bytes": 316420,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/plugins/wp-rocket/assets/img/youtube.png",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/youtube-4e79b2791a8d.png",
+    "status": 200,
+    "bytes": 662,
+    "content_type": "image/png",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/11/veranda4m-colibita.jpg",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/veranda4m-colibita-0463131810e2.jpg",
+    "status": 200,
+    "bytes": 353815,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/11/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-and-adventure-converge-to-create-memories-that-last-a-lifetime-1-dark.jpeg",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-a-96d3baa18097.jpeg",
+    "status": 200,
+    "bytes": 453454,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/11/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-and-adventure-converge-to-create-memories-that-last-a-lifetime-92-dark.jpeg",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-a-867a54f99194.jpeg",
+    "status": 200,
+    "bytes": 162237,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/11/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-and-adventure-converge-to-create-memories-that-last-a-lifetime-99.jpeg",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-a-6474f742c1db.jpeg",
+    "status": 200,
+    "bytes": 246365,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/11/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-and-adventure-converge-to-create-memories-that-last-a-lifetime-99-1024x683.jpeg",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-a-e6c8a43cb908.jpeg",
+    "status": 200,
+    "bytes": 136524,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/11/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-and-adventure-converge-to-create-memories-that-last-a-lifetime-99-768x512.jpeg",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-a-38ae13514bd0.jpeg",
+    "status": 200,
+    "bytes": 83273,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/11/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-and-adventure-converge-to-create-memories-that-last-a-lifetime-99-1536x1024.jpeg",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-a-776bcbd7dfea.jpeg",
+    "status": 200,
+    "bytes": 265510,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/11/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-and-adventure-converge-to-create-memories-that-last-a-lifetime-99-640x427.jpeg",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-a-1202d91fa364.jpeg",
+    "status": 200,
+    "bytes": 61147,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/11/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-and-adventure-converge-to-create-memories-that-last-a-lifetime-99-400x267.jpeg",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-a-e4264ca74752.jpeg",
+    "status": 200,
+    "bytes": 26939,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/11/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-and-adventure-converge-to-create-memories-that-last-a-lifetime-137.jpeg",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-a-8edcb759a084.jpeg",
+    "status": 200,
+    "bytes": 353030,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/11/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-and-adventure-converge-to-create-memories-that-last-a-lifetime-137-1024x683.jpeg",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-a-2c7ba5a794ba.jpeg",
+    "status": 200,
+    "bytes": 180579,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/11/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-and-adventure-converge-to-create-memories-that-last-a-lifetime-137-768x512.jpeg",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-a-809b235100aa.jpeg",
+    "status": 200,
+    "bytes": 105103,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/11/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-and-adventure-converge-to-create-memories-that-last-a-lifetime-137-1536x1024.jpeg",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-a-9a6f46ab4db5.jpeg",
+    "status": 200,
+    "bytes": 363463,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/11/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-and-adventure-converge-to-create-memories-that-last-a-lifetime-137-640x427.jpeg",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-a-73f00ce36c47.jpeg",
+    "status": 200,
+    "bytes": 75532,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/11/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-and-adventure-converge-to-create-memories-that-last-a-lifetime-137-400x267.jpeg",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-a-b61fe9888ecd.jpeg",
+    "status": 200,
+    "bytes": 31105,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/11/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-and-adventure-converge-to-create-memories-that-last-a-lifetime-105.jpeg",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-a-a6ebc94ed6b1.jpeg",
+    "status": 200,
+    "bytes": 276429,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/11/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-and-adventure-converge-to-create-memories-that-last-a-lifetime-105-1024x683.jpeg",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-a-90d0be815beb.jpeg",
+    "status": 200,
+    "bytes": 149495,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/11/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-and-adventure-converge-to-create-memories-that-last-a-lifetime-105-768x512.jpeg",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-a-24dbee4d81a6.jpeg",
+    "status": 200,
+    "bytes": 90103,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/11/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-and-adventure-converge-to-create-memories-that-last-a-lifetime-105-1536x1024.jpeg",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-a-dec0d8bd5433.jpeg",
+    "status": 200,
+    "bytes": 295653,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/11/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-and-adventure-converge-to-create-memories-that-last-a-lifetime-105-640x427.jpeg",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-a-6c9cfa363812.jpeg",
+    "status": 200,
+    "bytes": 65678,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/11/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-and-adventure-converge-to-create-memories-that-last-a-lifetime-105-400x267.jpeg",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-a-e0d4d1e925b5.jpeg",
+    "status": 200,
+    "bytes": 28555,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/06/veranda4m-shape.png",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/veranda4m-shape-49590bf0bf6e.png",
+    "status": 200,
+    "bytes": 177137,
+    "content_type": "image/png",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/06/veranda4m-shape-1024x472.png",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/veranda4m-shape-1024x472-659c13fab907.png",
+    "status": 200,
+    "bytes": 309947,
+    "content_type": "image/png",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/06/veranda4m-shape-768x354.png",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/veranda4m-shape-768x354-d78e75e8d5da.png",
+    "status": 200,
+    "bytes": 191197,
+    "content_type": "image/png",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/06/veranda4m-shape-1536x708.png",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/veranda4m-shape-1536x708-c3f320009c4d.png",
+    "status": 200,
+    "bytes": 595386,
+    "content_type": "image/png",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/06/veranda4m-shape-2048x944.png",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/veranda4m-shape-2048x944-812925b63787.png",
+    "status": 200,
+    "bytes": 919420,
+    "content_type": "image/png",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/06/veranda4m-shape-640x295.png",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/veranda4m-shape-640x295-de4c43a9998d.png",
+    "status": 200,
+    "bytes": 139698,
+    "content_type": "image/png",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/06/veranda4m-shape-400x184.png",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/veranda4m-shape-400x184-733e6d58273c.png",
+    "status": 200,
+    "bytes": 61283,
+    "content_type": "image/png",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/11/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-and-adventure-converge-to-create-memories-that-last-a-lifetime-Voice-control.jpg",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-a-cd9b1549b100.jpg",
+    "status": 200,
+    "bytes": 105021,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/11/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-and-adventure-converge-to-create-memories-that-last-a-lifetime-92.jpeg",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-a-7fc1a01da2c2.jpeg",
+    "status": 200,
+    "bytes": 172357,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/11/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-and-adventure-converge-to-create-memories-that-last-a-lifetime-144.jpeg",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-a-f7646b96b0b4.jpeg",
+    "status": 200,
+    "bytes": 202440,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/11/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-and-adventure-converge-to-create-memories-that-last-a-lifetime-131.jpeg",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-a-0b5560b135f4.jpeg",
+    "status": 200,
+    "bytes": 256369,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/11/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-and-adventure-converge-to-create-memories-that-last-a-lifetime-Car-charge.jpg",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-a-ac6904ada229.jpg",
+    "status": 200,
+    "bytes": 61039,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/11/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-and-adventure-converge-to-create-memories-that-last-a-lifetime-114.jpeg",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-a-ce85634780b7.jpeg",
+    "status": 200,
+    "bytes": 189625,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/11/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-and-adventure-converge-to-create-memories-that-last-a-lifetime-94-copy.jpeg",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-a-f30886462b20.jpeg",
+    "status": 200,
+    "bytes": 89082,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/11/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-and-adventure-converge-to-create-memories-that-last-a-lifetime-133.jpeg",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-a-8dec74e42172.jpeg",
+    "status": 200,
+    "bytes": 189110,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/11/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-and-adventure-converge-to-create-memories-that-last-a-lifetime-20-dark.jpeg",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-a-8fe722a9e1db.jpeg",
+    "status": 200,
+    "bytes": 322610,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/11/Asset-10@3x.png",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/Asset-10@3x-8ff550bbef19.png",
+    "status": 200,
+    "bytes": 66487,
+    "content_type": "image/png",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/11/Asset-10@3x-1024x908.png",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/Asset-10@3x-1024x908-7929b5dbc4d7.png",
+    "status": 200,
+    "bytes": 86670,
+    "content_type": "image/png",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/11/Asset-10@3x-768x681.png",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/Asset-10@3x-768x681-af7a070aaed8.png",
+    "status": 200,
+    "bytes": 59967,
+    "content_type": "image/png",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/11/Asset-10@3x-640x567.png",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/Asset-10@3x-640x567-59c01d1cf1d9.png",
+    "status": 200,
+    "bytes": 46984,
+    "content_type": "image/png",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/11/Asset-10@3x-400x355.png",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/Asset-10@3x-400x355-b3b512567cc8.png",
+    "status": 200,
+    "bytes": 27052,
+    "content_type": "image/png",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/themes/porto/images/ajax-loader@2x.gif",
+    "source": "index.html",
+    "path": "assets/remote-downloads/veranda4m.com/ajax-loader@2x-9dc8588668c0.gif",
+    "status": 200,
+    "bytes": 1156,
+    "content_type": "image/gif",
+    "error": null
+  },
+  {
+    "url": "https://i.ytimg.com/vi/ID/hqdefault.jpg",
+    "source": "index.html",
+    "path": "assets/remote-downloads/i.ytimg.com/hqdefault-a4cb839cef44.jpg",
+    "status": null,
+    "bytes": 0,
+    "content_type": null,
+    "error": "<HTTPError 404: 'Not Found'>"
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/06/45968.jpg",
+    "source": "find-us.html",
+    "path": "assets/remote-downloads/veranda4m.com/45968-e8d1e0ca947e.jpg",
+    "status": 200,
+    "bytes": 578267,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/11/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-and-adventure-converge-to-create-memories-that-last-a-lifetime-37-dark.jpeg",
+    "source": "book.html",
+    "path": "assets/remote-downloads/veranda4m.com/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-a-1cd9a408bc29.jpeg",
+    "status": 200,
+    "bytes": 274064,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/11/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-and-adventure-converge-to-create-memories-that-last-a-lifetime-166-dark.jpeg",
+    "source": "book.html",
+    "path": "assets/remote-downloads/veranda4m.com/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-a-6e9a6bdf4601.jpeg",
+    "status": 200,
+    "bytes": 238427,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/11/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-and-adventure-converge-to-create-memories-that-last-a-lifetime-27.jpeg",
+    "source": "our-story.html",
+    "path": "assets/remote-downloads/veranda4m.com/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-a-e61a50aea47f.jpeg",
+    "status": 200,
+    "bytes": 149534,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/11/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-and-adventure-converge-to-create-memories-that-last-a-lifetime-19-600x800.jpeg",
+    "source": "our-story.html",
+    "path": "assets/remote-downloads/veranda4m.com/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-a-47dbaf298404.jpeg",
+    "status": 200,
+    "bytes": 77290,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/11/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-and-adventure-converge-to-create-memories-that-last-a-lifetime-59-600x800.jpeg",
+    "source": "our-story.html",
+    "path": "assets/remote-downloads/veranda4m.com/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-a-3fcbfc5bcb27.jpeg",
+    "status": 200,
+    "bytes": 65272,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/11/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-and-adventure-converge-to-create-memories-that-last-a-lifetime-52-1-600x800.jpeg",
+    "source": "our-story.html",
+    "path": "assets/remote-downloads/veranda4m.com/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-a-42acfe51af6b.jpeg",
+    "status": 200,
+    "bytes": 83929,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/11/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-and-adventure-converge-to-create-memories-that-last-a-lifetime-95-600x800.jpeg",
+    "source": "our-story.html",
+    "path": "assets/remote-downloads/veranda4m.com/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-a-25a43e1cdf05.jpeg",
+    "status": 200,
+    "bytes": 80488,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/11/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-and-adventure-converge-to-create-memories-that-last-a-lifetime-24-600x800.jpeg",
+    "source": "our-story.html",
+    "path": "assets/remote-downloads/veranda4m.com/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-a-e1e5455729b0.jpeg",
+    "status": 200,
+    "bytes": 66528,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/11/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-and-adventure-converge-to-create-memories-that-last-a-lifetime-28-600x800.jpeg",
+    "source": "our-story.html",
+    "path": "assets/remote-downloads/veranda4m.com/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-a-ce9884a68701.jpeg",
+    "status": 200,
+    "bytes": 71942,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/11/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-and-adventure-converge-to-create-memories-that-last-a-lifetime-43-600x800.jpeg",
+    "source": "our-story.html",
+    "path": "assets/remote-downloads/veranda4m.com/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-a-d8b1ce6341bf.jpeg",
+    "status": 200,
+    "bytes": 74716,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/11/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-and-adventure-converge-to-create-memories-that-last-a-lifetime-34-600x800.jpeg",
+    "source": "our-story.html",
+    "path": "assets/remote-downloads/veranda4m.com/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-a-e2e41f6522e8.jpeg",
+    "status": 200,
+    "bytes": 102003,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/11/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-and-adventure-converge-to-create-memories-that-last-a-lifetime-82-600x800.jpeg",
+    "source": "our-story.html",
+    "path": "assets/remote-downloads/veranda4m.com/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-a-854e7f4183d0.jpeg",
+    "status": 200,
+    "bytes": 106061,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/11/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-and-adventure-converge-to-create-memories-that-last-a-lifetime-5-600x800.jpeg",
+    "source": "our-story.html",
+    "path": "assets/remote-downloads/veranda4m.com/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-a-370753441c0e.jpeg",
+    "status": 200,
+    "bytes": 84416,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/11/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-and-adventure-converge-to-create-memories-that-last-a-lifetime-68-600x800.jpeg",
+    "source": "our-story.html",
+    "path": "assets/remote-downloads/veranda4m.com/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-a-c01f7c795003.jpeg",
+    "status": 200,
+    "bytes": 76900,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/11/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-and-adventure-converge-to-create-memories-that-last-a-lifetime-38-600x800.jpeg",
+    "source": "our-story.html",
+    "path": "assets/remote-downloads/veranda4m.com/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-a-90522b8cbd46.jpeg",
+    "status": 200,
+    "bytes": 72802,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/11/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-and-adventure-converge-to-create-memories-that-last-a-lifetime-158-600x800.jpeg",
+    "source": "our-story.html",
+    "path": "assets/remote-downloads/veranda4m.com/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-a-dd1fc7cfd337.jpeg",
+    "status": 200,
+    "bytes": 59703,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/11/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-and-adventure-converge-to-create-memories-that-last-a-lifetime-122-600x800.jpeg",
+    "source": "our-story.html",
+    "path": "assets/remote-downloads/veranda4m.com/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-a-650984fb87fc.jpeg",
+    "status": 200,
+    "bytes": 85551,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/11/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-and-adventure-converge-to-create-memories-that-last-a-lifetime-137-1-600x800.jpeg",
+    "source": "our-story.html",
+    "path": "assets/remote-downloads/veranda4m.com/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-a-3409f02b4194.jpeg",
+    "status": 200,
+    "bytes": 100055,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/11/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-and-adventure-converge-to-create-memories-that-last-a-lifetime-152-600x800.jpeg",
+    "source": "our-story.html",
+    "path": "assets/remote-downloads/veranda4m.com/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-a-bdd21fd62f81.jpeg",
+    "status": 200,
+    "bytes": 63999,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/11/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-and-adventure-converge-to-create-memories-that-last-a-lifetime-145-600x800.jpeg",
+    "source": "our-story.html",
+    "path": "assets/remote-downloads/veranda4m.com/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-a-2568e2dd0e16.jpeg",
+    "status": 200,
+    "bytes": 90610,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/11/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-and-adventure-converge-to-create-memories-that-last-a-lifetime-128-600x800.jpeg",
+    "source": "our-story.html",
+    "path": "assets/remote-downloads/veranda4m.com/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-a-bd4802a9b2ce.jpeg",
+    "status": 200,
+    "bytes": 53656,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/11/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-and-adventure-converge-to-create-memories-that-last-a-lifetime-160-600x800.jpeg",
+    "source": "our-story.html",
+    "path": "assets/remote-downloads/veranda4m.com/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-a-0ccab24e5a17.jpeg",
+    "status": 200,
+    "bytes": 105251,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/11/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-and-adventure-converge-to-create-memories-that-last-a-lifetime-101-600x800.jpeg",
+    "source": "our-story.html",
+    "path": "assets/remote-downloads/veranda4m.com/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-a-786c22d8b1b6.jpeg",
+    "status": 200,
+    "bytes": 98520,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/11/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-and-adventure-converge-to-create-memories-that-last-a-lifetime-65-600x800.jpeg",
+    "source": "our-story.html",
+    "path": "assets/remote-downloads/veranda4m.com/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-a-4e419c60574f.jpeg",
+    "status": 200,
+    "bytes": 105009,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/11/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-and-adventure-converge-to-create-memories-that-last-a-lifetime-1-600x800.jpg",
+    "source": "our-story.html",
+    "path": "assets/remote-downloads/veranda4m.com/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-a-3c9a45f9b0c0.jpg",
+    "status": 200,
+    "bytes": 109408,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/11/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-and-adventure-converge-to-create-memories-that-last-a-lifetime-2-600x800.jpg",
+    "source": "our-story.html",
+    "path": "assets/remote-downloads/veranda4m.com/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-a-e3a34510f5ce.jpg",
+    "status": 200,
+    "bytes": 113174,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/11/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-and-adventure-converge-to-create-memories-that-last-a-lifetime-3-600x800.jpg",
+    "source": "our-story.html",
+    "path": "assets/remote-downloads/veranda4m.com/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-a-7582c7b81e3b.jpg",
+    "status": 200,
+    "bytes": 175397,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "url": "https://veranda4m.com/wp-content/uploads/2024/11/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-and-adventure-converge-to-create-memories-that-last-a-lifetime-129-dark.jpeg",
+    "source": "our-story.html",
+    "path": "assets/remote-downloads/veranda4m.com/Veranda4M-Luxurious-Comfort-Modern-Amenities-Veranda4M-is-more-than-just-a-cottage-its-a-sanctuary-where-luxury-nature-a-da165b329307.jpeg",
+    "status": 200,
+    "bytes": 220560,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/webfonts/fa-brands-400.woff2",
+    "source": "assets/remote-downloads/cdnjs.cloudflare.com/all.min-60ef7f8691cf.css",
+    "path": "assets/remote-downloads/cdnjs.cloudflare.com/fa-brands-400-ec8d091c6325.woff2",
+    "status": 200,
+    "bytes": 117852,
+    "content_type": "application/octet-stream; charset=utf-8",
+    "error": null
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/webfonts/fa-brands-400.ttf",
+    "source": "assets/remote-downloads/cdnjs.cloudflare.com/all.min-60ef7f8691cf.css",
+    "path": "assets/remote-downloads/cdnjs.cloudflare.com/fa-brands-400-a2b772bcdee4.ttf",
+    "status": 200,
+    "bytes": 209128,
+    "content_type": "application/octet-stream; charset=utf-8",
+    "error": null
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/webfonts/fa-regular-400.woff2",
+    "source": "assets/remote-downloads/cdnjs.cloudflare.com/all.min-60ef7f8691cf.css",
+    "path": "assets/remote-downloads/cdnjs.cloudflare.com/fa-regular-400-bce36e1419c0.woff2",
+    "status": 200,
+    "bytes": 25392,
+    "content_type": "application/octet-stream; charset=utf-8",
+    "error": null
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/webfonts/fa-regular-400.ttf",
+    "source": "assets/remote-downloads/cdnjs.cloudflare.com/all.min-60ef7f8691cf.css",
+    "path": "assets/remote-downloads/cdnjs.cloudflare.com/fa-regular-400-9ce40edcb72f.ttf",
+    "status": 200,
+    "bytes": 67860,
+    "content_type": "application/octet-stream; charset=utf-8",
+    "error": null
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/webfonts/fa-solid-900.woff2",
+    "source": "assets/remote-downloads/cdnjs.cloudflare.com/all.min-60ef7f8691cf.css",
+    "path": "assets/remote-downloads/cdnjs.cloudflare.com/fa-solid-900-004790780ad9.woff2",
+    "status": 200,
+    "bytes": 156400,
+    "content_type": "application/octet-stream; charset=utf-8",
+    "error": null
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/webfonts/fa-solid-900.ttf",
+    "source": "assets/remote-downloads/cdnjs.cloudflare.com/all.min-60ef7f8691cf.css",
+    "path": "assets/remote-downloads/cdnjs.cloudflare.com/fa-solid-900-5d81e5584107.ttf",
+    "status": 200,
+    "bytes": 420332,
+    "content_type": "application/octet-stream; charset=utf-8",
+    "error": null
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/webfonts/fa-v4compatibility.woff2",
+    "source": "assets/remote-downloads/cdnjs.cloudflare.com/all.min-60ef7f8691cf.css",
+    "path": "assets/remote-downloads/cdnjs.cloudflare.com/fa-v4compatibility-17e7c39ae657.woff2",
+    "status": 200,
+    "bytes": 4792,
+    "content_type": "application/octet-stream; charset=utf-8",
+    "error": null
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/webfonts/fa-v4compatibility.ttf",
+    "source": "assets/remote-downloads/cdnjs.cloudflare.com/all.min-60ef7f8691cf.css",
+    "path": "assets/remote-downloads/cdnjs.cloudflare.com/fa-v4compatibility-fdc2e0a54ff1.ttf",
+    "status": 200,
+    "bytes": 10832,
+    "content_type": "application/octet-stream; charset=utf-8",
+    "error": null
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/npm/iconsax-font-icon@1.1.0/dist/fonts/icons.ttf?e81b10f109cb62858db64ddad7f97a43",
+    "source": "assets/remote-downloads/cdn.jsdelivr.net/icons-233b25f1ede1.css",
+    "path": "assets/remote-downloads/cdn.jsdelivr.net/icons-0154d0615d0d.ttf",
+    "status": 200,
+    "bytes": 314400,
+    "content_type": "font/ttf",
+    "error": null
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/npm/iconsax-font-icon@1.1.0/dist/fonts/icons.woff?e81b10f109cb62858db64ddad7f97a43",
+    "source": "assets/remote-downloads/cdn.jsdelivr.net/icons-233b25f1ede1.css",
+    "path": "assets/remote-downloads/cdn.jsdelivr.net/icons-58c6d5a43a96.woff",
+    "status": 200,
+    "bytes": 123372,
+    "content_type": "font/woff",
+    "error": null
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/npm/iconsax-font-icon@1.1.0/dist/fonts/icons.woff2?e81b10f109cb62858db64ddad7f97a43",
+    "source": "assets/remote-downloads/cdn.jsdelivr.net/icons-233b25f1ede1.css",
+    "path": "assets/remote-downloads/cdn.jsdelivr.net/icons-735db0ccc247.woff2",
+    "status": 200,
+    "bytes": 92948,
+    "content_type": "font/woff2",
+    "error": null
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/npm/iconsax-font-icon@1.1.0/dist/fonts/icons.eot?e81b10f109cb62858db64ddad7f97a43#iefix",
+    "source": "assets/remote-downloads/cdn.jsdelivr.net/icons-233b25f1ede1.css",
+    "path": "assets/remote-downloads/cdn.jsdelivr.net/icons-26067a6dbc4e.eot",
+    "status": 200,
+    "bytes": 314556,
+    "content_type": "application/vnd.ms-fontobject",
+    "error": null
+  }
+]
