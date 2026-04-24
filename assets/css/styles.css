@@ -636,6 +636,12 @@ p { margin: 0 0 1em; color: var(--ink-soft); }
   background: var(--cream-3);
   overflow: hidden;
 }
+.example-thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
 .example-thumb svg { width: 100%; height: 100%; }
 .example-body { padding: 24px; }
 .example-meta {
